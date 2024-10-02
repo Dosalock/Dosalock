@@ -1,4 +1,4 @@
-# ![](https://upload.wikimedia.org/wikipedia/commons/0/0f/Icons8_flat_command_line.svg){width=10} About Me:
+# ![](https://upload.wikimedia.org/wikipedia/commons/0/0f/Icons8_flat_command_line.svg){width=10 height=10} About Me:
 Working on my CS degree at Karlstad University.
 
 
