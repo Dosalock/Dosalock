@@ -1,4 +1,4 @@
-# 💫 About Me:
+# ![](https://upload.wikimedia.org/wikipedia/commons/0/0f/Icons8_flat_command_line.svg) About Me:
 Working on my CS degree at Karlstad University.
 
 
