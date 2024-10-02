@@ -1,4 +1,4 @@
-# ![<img src="[image.png](https://upload.wikimedia.org/wikipedia/commons/0/0f/Icons8_flat_command_line.svg)" width="250"/>](https://upload.wikimedia.org/wikipedia/commons/0/0f/Icons8_flat_command_line.svg) About Me:
+# ![<img src="https://upload.wikimedia.org/wikipedia/commons/0/0f/Icons8_flat_command_line.svg" width="250"/>](https://upload.wikimedia.org/wikipedia/commons/0/0f/Icons8_flat_command_line.svg) About Me:
 Working on my CS degree at Karlstad University.
 
 
