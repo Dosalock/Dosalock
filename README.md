@@ -1,5 +1,5 @@
 # <img src="https://upload.wikimedia.org/wikipedia/commons/0/0f/Icons8_flat_command_line.svg" alt="cmd" width="37px"> About Me:
-Working on my CS degree at Karlstad University.
+Embedded Software Engineer @ Toyota Material Handling. Studied CS bachelor at Karlstad University.
 [My thesis project](https://www.diva-portal.org/smash/record.jsf?pid=diva2:1932648) about emulating munitions for the [Carl-Gustaf M4, A.K.A M3A1 MAAWS or just MAAWS](https://en.wikipedia.org/wiki/Carl_Gustaf_8.4_cm_recoilless_rifle)
 
 ## 🌐 Socials:
